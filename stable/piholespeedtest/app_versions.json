@@ -5460,7 +5460,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -10876,7 +10876,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -15902,7 +15902,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -20928,7 +20928,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -26033,7 +26033,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -31139,7 +31139,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
@@ -36285,7 +36285,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "name": "pihole",
+      "name": "piholespeedtest",
       "sources": [
         "https://github.com/pi-hole",
         "https://github.com/pi-hole/docker-pi-hole",
