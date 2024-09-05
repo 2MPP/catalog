@@ -15594,7 +15594,7 @@
       "description": "DNS and Ad-filtering for your network",
       "healthy": true,
       "healthy_error": null,
-      "home": "https://truecharts.org/charts/stable/pihole",
+      "home": "https://truecharts.org/charts/stable/piholespeedtest",
       "location": "/home/runner/_work/catalog/catalog/stable/piholespeedtest",
       "latest_version": "17.1.5",
       "latest_app_version": "2024.05.0",
@@ -15619,7 +15619,7 @@
         "https://hub.docker.com/r/pihole/pihole",
         "https://pi-hole.net/"
       ],
-      "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/pihole.webp"
+      "icon_url": "https://2mp.pulledtheirlife.support/Jr88"
     },
     "pinry": {
       "app_readme": "<p>The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/pinry\">https://truecharts.org/charts/stable/pinry</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
